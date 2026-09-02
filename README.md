@@ -7,6 +7,10 @@ Live app:
 - Frontend: https://notes-lilac-ten.vercel.app/
 - Backend API: https://notes-0vw3.onrender.com/api
 
+## Recording / Demo
+
+- Video walkthrough: https://drive.google.com/file/d/1H7vO7-GCQIU183EbKBHTU48AtTw-LulK/view?usp=sharing
+
 ## Tech Stack
 
 - Frontend: React + Vite
